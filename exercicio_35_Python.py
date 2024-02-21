@@ -1,7 +1,7 @@
 '''Crie um programa que leia o comprimento de tres retas e 
 diga ao usuario se elas formam ou nao um triangulo'''
 
-print('-='*12)
+'''print('-='*12)
 print('Analisador de Triangulo')
 print('-='*12)
 reta_um = float(input('Primeiro seguimento: '))
@@ -11,10 +11,9 @@ reta_tres = float(input('Terceiro seguimento: '))
 if reta_um < reta_dois + reta_tres and reta_dois < reta_um + reta_tres and reta_tres < reta_um + reta_dois:
      print('Os segmentos acima PODEM FORMAR um Triangulo')
 else:
-    print('Os segmentos acima NAO PODEM FORMAR um Triangulo')
+    print('Os segmentos acima NAO PODEM FORMAR um Triangulo')'''
 
 #Forma Melhorada#
-'''
 print('-='*12)
 print('Analisador de Triangulo')
 print('-='*12)
@@ -31,4 +30,4 @@ try:
 except ValueError:
    print('Digite um valor valido')
 except IndexError:
-   print('Vc digitou uma letra ou esta faltando valores favor digitar um valor valido')'''
+   print('Vc digitou uma letra ou esta faltando valores favor digitar um valor valido')
