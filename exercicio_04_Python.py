@@ -8,7 +8,8 @@ print(f'Esta em maiusculo: {dados.isupper()}')
 print(f'Esta em minusculo: {dados.islower()}')
 print(f'Esta capitalizado: {dados.istitle()}')
 
-'''# Função para verificar as propriedades da string inserida
+'''
+# Função para verificar as propriedades da string inserida
 def verificar_propriedades(valor):
     print(f"O tipo primitivo desse valor é {type(valor)}")
     print(f"Só tem espaços? {valor.isspace()}")

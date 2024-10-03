@@ -3,9 +3,7 @@ print(f'E um prazer em lhe conhecer, {nome}!')
 
 
 """
-Criando uma funcao para dar as boas vindas a uma pessoa com uma msg
-
-Funcao para mostrar uma msg de boas vindas com um argumento
+#Funcao para mostrar uma msg de boas vindas com um argumento
 def mensagem(msg):
     print(f'E um prazer em lhe conhecer, {msg}!')#Msg
 

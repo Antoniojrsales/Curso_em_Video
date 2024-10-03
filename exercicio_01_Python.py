@@ -1,9 +1,9 @@
 print('Ola Mundo!')
 
 """
-Criando uma funcao
-
+#Funcao para mostrar uma msg
 def ola_mundo():
     print('Ola Mundo!')
-ola_mundo()
+
+ola_mundo()# Chama a função de verificação
 """
