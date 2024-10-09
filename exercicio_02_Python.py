@@ -4,6 +4,7 @@ print(f'E um prazer em lhe conhecer, {nome}!')
 
 """
 #Funcao para mostrar uma msg de boas vindas com um argumento
+
 def mensagem(msg):
     print(f'E um prazer em lhe conhecer, {msg}!')#Msg
 

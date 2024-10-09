@@ -3,7 +3,8 @@ print(f'O Dobro de {numero} Vale {numero * 2}')
 print(f'O Triplo de {numero} Vale {numero * 3}')
 print(f'O Raiz de {numero} Vale {numero ** (1/2):.2f}')
 
-'''Criando uma funcao para verificar o exer. com tratamento de erro
+'''
+#Criando uma funcao para verificar o exer. com tratamento de erro
 
 def dobro(num):
     print(f'O Dobro de {num} é = {num * 2}')

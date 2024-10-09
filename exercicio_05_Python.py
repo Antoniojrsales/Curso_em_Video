@@ -6,6 +6,7 @@ print(f'Analisando o valor {numero} seu antecessor e {antecessor} e seu sucessor
     
 '''
 Criando uma funcao para o exer. com tratamento de erro
+
 def antes_depois(num):
     print(f'Analisando o valor {num}, seu antecessor é {num - 1} e seu sucessor é {num + 1}')
 
